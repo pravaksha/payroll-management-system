@@ -124,7 +124,7 @@ python main.py
 
 | Payroll System | View Payroll | Notes |
 |---|---|---|
-| ![Payroll System](1.png) | ![View Payroll](2.png) | ![Notes](3.png) |
+| ![Payroll System](img/1.png) | ![View Payroll](img/2.png) | ![Notes](img/3.png) |
 
 ---
 
